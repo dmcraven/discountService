@@ -1,6 +1,6 @@
 # discountService
 
-A simple service which contacts JL non prod environment and to return all products in a category. 
+A simple service which contacts JL non prod environment to return all products in a category. 
 It discards any products which do not contain a was price, then formats the remaining values per the rules in the technical test. 
 
 Noting that had this not been a technical test, I would have needed to return to the BA with queries: 
